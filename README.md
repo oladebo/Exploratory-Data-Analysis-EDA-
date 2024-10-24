@@ -13,9 +13,18 @@ in the United States of America from three different companies broken down e.g. 
 - 5. What is the relationship between units sold and profit?
 - 6. Which product categories generate the most revenue?
  
+ ### B. Data Analysis
+##### Our dataset  for this project was been downloaded from [data.world.org](https://data.world/vizwiz/sample-soda-sales)
+#### with title: Soft_drink _soda _sales
+- Import Required library
+- Cleaning of the dataset
+- Exploratory Analysis
+- Description Analysis
+
+### C. Present  findings and Recommendation
+ 
 ### 2. Insight And Recommendation 
-2
-#### Based on this Exploratory Data Analysis conducted, here are some of the business insights and recommendation that could be drawn below
+#### Based on this Exploratory Data Analysis conducted, here are some of the business insights and recommendations that could be drawn below
 
 ## Maximise Revenue from Top Company
 - Insight: As you can see companies like Coca-Cola have the highest or generate significant revenue compared to 
